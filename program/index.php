@@ -53,4 +53,5 @@ foreach ($responses as $response) {
 </form>
 
 </body>
-<script src="Chart.js"></script>
+<script src="Chart.js">
+</script>
